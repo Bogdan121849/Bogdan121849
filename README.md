@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**Bogdan121849/Bogdan121849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bogdan Sandoiu
 
-Here are some ideas to get you started:
+Third-year AI bachelor • passionate about **AI**, **Machine Learning**, **DevOps/MLOps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bogdan%20Sandoiu-blue)](https://www.linkedin.com/in/bogdan-sandoiu-3a5a20255/)
+[![Email](https://img.shields.io/badge/Email-sandoiu.stefan%40gmail.com-informational)](mailto:sandoiu.stefan@gmail.com)
+
+---
+
+## 🚀 What I’m building
+- **[ML_futbol](https://github.com/Bogdan121849/ML_futbol)** — football video analytics (YOLO + tracking + stats + reinforcement learning).
+- **[Engine_Sound_Classification_Pipeline](https://github.com/Bogdan121849/Engine_Sound_Classification_Pipeline)** — audio preprocessing (MFCC/PCA) + deep learning classifiers.
+- **[Wind_AI](https://github.com/Bogdan121849/Wind_AI)** — time-series forecasting contest on real data (RNN/GRU/LSTM/Transformers).
+
+## 🧰 Tech I use
+`Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `Pandas` · `NumPy`  
+`XGBoost/LightGBM` · `OpenCV` · `YOLOv8` · `FastAPI`  
+`Docker` · `GitHub Actions` · `Hydra/Configs` · `Optuna`  
+`Matplotlib/Plotly` · `SQL` · `Linux` · `Bash`
+
+## ✅ Highlights & interests
+- Data preprocessing & cleaning** (missing data, scaling, encoding, leakage checks)
+- Feature engineering** (tabular, time-series, audio — lags/rolling stats, interactions)
+- Reproducible ML pipelines (configs, seeds, envs)
+- MLOps & DevOps: CI, testing, linting, containers
+- Data preprocessing
+- Data engineering 
+- Computer Vision, Time-Series, Audio ML
+
+## 📫 Contact
+- Email: **sandoiu.stefan@gmail.com**
+- LinkedIn: **[bogdan-sandoiu-3a5a20255](https://www.linkedin.com/in/bogdan-sandoiu-3a5a20255/)**
+
+<!-- Optional: add a small GIF/screenshot of a project in /assets and embed it here -->
